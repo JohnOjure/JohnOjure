@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oluwasetemi John Kunle-Ajayi
+# 👋 Holla, I'm Oluwasetemi John Kunle-Ajayi
 
 I'm a **student, researcher, and developer** focused on building and studying **intelligent systems that scale**.
 
@@ -31,12 +31,12 @@ I care deeply about *why systems work*, not just *that they work*.
 ## 🛠️ Tech Stack
 
 **Languages**
-- Python • Go • Rust • Solidity • PHP • C
+- Python • Solidity • PHP • C
 
 **Frameworks & Tools**
-- PyTorch • TensorFlow • Hugging Face
-- FastAPI • Laravel • Axum
-- Docker • Git
+- PyTorch • TensorFlow • Hugging Face • Langchain
+- FastAPI • Laravel
+- Docker • Git 
 
 ---
 
@@ -51,25 +51,19 @@ I care deeply about *why systems work*, not just *that they work*.
 
 ## 🏆 Highlights
 
-- 🥈 Hackathon winner (crowdfunding solution for Nigerian universities)
+- Hackathon wins across various domains (fintech, healthtech, insurance, etc)
 - Actively transitioning from applied development into **serious AI/ML research**
 - Strong interest in **reasoning systems, symbolic transformation, and model design**
 
 ---
 
-## 🎯 Current Direction
-
-- Developing research-oriented ML systems  
-- Studying neural reasoning and structured representations  
-- Building backend and blockchain systems with real-world utility  
-
----
-
 ## 📫 Connect
 
-- 💼 LinkedIn: *(add link)*
-- 🌱 Always learning, building, and refining
+- **LinkedIn**: https://linkedin.com/in/oluwasetemi-kunle-ajayi-77570033b
+- **X**: https://x.com/codeofchampions
 
----
 
-> *Research-driven engineering. Systems that think. Systems that last.*
+
+
+>_🌱 Always learning, building, and refining_
+
